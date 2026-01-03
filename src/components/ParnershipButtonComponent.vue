@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import partnerPlanFr from '@geniale/assets/documents/PlanCommandite.pdf';
+import partnerPlanFr from '@ogmatechnologies/assets/documents/PlanCommandite.pdf';
 const partnerPlanEn = partnerPlanFr; // Assuming the English version is the same for now
 import { useI18n } from 'vue-i18n';
 import { computed } from 'vue';

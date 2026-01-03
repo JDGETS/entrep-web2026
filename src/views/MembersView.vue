@@ -1,10 +1,10 @@
 <script setup lang="ts">
 // Components
-import MemberItemComponent from '@geniale/components/MemberItemComponent.vue';
+import MemberItemComponent from '@ogmatechnologies/components/MemberItemComponent.vue';
 
 // Media
-import defaultAvatar from '@geniale/assets/media/members/avatar.png';
-import { teams } from '@geniale/data/members';
+import defaultAvatar from '@ogmatechnologies/assets/media/members/avatar.png';
+import { teams } from '@ogmatechnologies/data/members';
 </script>
 
 <template>

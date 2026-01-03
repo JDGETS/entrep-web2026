@@ -71,7 +71,7 @@
       "typescript": true,
       "node": true,
       "alias": {
-        "map": [["@geniale", "./src"]],
+        "map": [["@ogmatechnologies", "./src"]],
         "extensions": [".js", ".ts", ".jsx", ".tsx", ".vue"]
       }
     },

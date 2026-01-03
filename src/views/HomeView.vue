@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import logo from '@geniale/assets/media/logo_flag.svg';
-import team from '@geniale/assets/media/members.jpg';
-import qualite from '@geniale/assets/media/home/qualite.png';
-import houblon from '@geniale/assets/media/home/houblon.jpg';
-import production from '@geniale/assets/media/home/production.png';
-import PartnersComponent from '@geniale/components/PartnersComponent.vue';
-import DescriptiveContentComponent from '@geniale/components/DescriptiveContentComponent.vue';
-import i18n from '@geniale/plugins/i18n';
+import logo from '@ogmatechnologies/assets/media/logo_flag.svg';
+import team from '@ogmatechnologies/assets/media/members.jpg';
+import qualite from '@ogmatechnologies/assets/media/home/qualite.png';
+import houblon from '@ogmatechnologies/assets/media/home/houblon.jpg';
+import production from '@ogmatechnologies/assets/media/home/production.png';
+import PartnersComponent from '@ogmatechnologies/components/PartnersComponent.vue';
+import DescriptiveContentComponent from '@ogmatechnologies/components/DescriptiveContentComponent.vue';
+import i18n from '@ogmatechnologies/plugins/i18n';
 </script>
 
 <template>

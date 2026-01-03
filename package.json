@@ -1,8 +1,8 @@
 {
-  "name": "@geniale/website",
+  "name": "@ogmatechnologies/website",
   "type": "module",
   "version": "1.0.0",
-  "description": "GeniAle's website (https://ganiale.etsmtl.ca/)",
+  "description": "ogmatechnologies's website (https://ganiale.etsmtl.ca/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/ganiale/ganiale.github.io.git"

@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import ParnershipButtonComponent from '@geniale/components/ParnershipButtonComponent.vue';
-import { partners } from '@geniale/data/partners';
+import ParnershipButtonComponent from '@ogmatechnologies/components/ParnershipButtonComponent.vue';
+import { partners } from '@ogmatechnologies/data/partners';
 </script>
 
 <template>

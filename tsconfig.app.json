@@ -17,7 +17,7 @@
     "resolvePackageJsonExports": false,
     "baseUrl": ".",
     "paths": {
-      "@geniale/*": ["./src/*"]
+      "@ogmatechnologies/*": ["./src/*"]
     },
     "lib": ["ESNext", "DOM", "DOM.Iterable"]
   }

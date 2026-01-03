@@ -1,4 +1,4 @@
-import i18n from '@geniale/plugins/i18n';
+import i18n from '@ogmatechnologies/plugins/i18n';
 import type { RouteRecordRaw } from 'vue-router';
 
 import Home from './HomeView.vue';

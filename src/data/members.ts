@@ -1,5 +1,5 @@
 // Members pictures
-import FelixLachance from '@geniale/data/images/Felix_Lachance.jpg';
+import FelixLachance from '@ogmatechnologies/data/images/Felix_Lachance.jpg';
 export interface Member {
   name: string;
   program: string;

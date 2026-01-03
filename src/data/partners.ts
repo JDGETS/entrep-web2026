@@ -1,9 +1,9 @@
 // Partners logos
-import pub100 from '@geniale/assets/media/partners/pub100.avif';
-import aeets from '@geniale/assets/media/partners/aeets.png';
-import ets from '@geniale/assets/media/partners/Logo_ETS_TypoGrise_D_FR_1.jpg';
-import ltm from '@geniale/assets/media/partners/LTM.webp';
-import sdg from '@geniale/assets/media/partners/SDG.png';
+import pub100 from '@ogmatechnologies/assets/media/partners/pub100.avif';
+import aeets from '@ogmatechnologies/assets/media/partners/aeets.png';
+import ets from '@ogmatechnologies/assets/media/partners/Logo_ETS_TypoGrise_D_FR_1.jpg';
+import ltm from '@ogmatechnologies/assets/media/partners/LTM.webp';
+import sdg from '@ogmatechnologies/assets/media/partners/SDG.png';
 
 interface Partner {
   name: string;
