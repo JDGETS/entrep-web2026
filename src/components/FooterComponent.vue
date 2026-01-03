@@ -17,7 +17,7 @@ onMounted(() => {
     <div class="container mx-auto text-white px-4">
       <div class="flex flex-col md:flex-row justify-between">
         <div class="flex flex-col gap-4 md:w-1/3">
-          <img :src="logo" alt="logo" class="h-16 w-16" />
+          <img :src="logo" alt="logo" class="h-16 d-block" />
           <div class="flex flex-row items-center text-lg gap-1">
             <FontAwesomeIcon :icon="faEnvelope" class="w-6" />
             <a :href="'mailto:' + email">{{ email }}</a>

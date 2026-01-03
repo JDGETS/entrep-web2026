@@ -80,7 +80,7 @@ function changeLanguage(newLang: string) {
         <!-- left section -->
         <div class="flex justify-between items-center">
           <a href="/" class="text-xl font-bold md:text-2xl">
-            <img :src="logo" alt="logo" class="h-12 w-12 md:h-14 md:w-14" />
+            <img :src="logo" alt="logo" class="h-12 md:h-14" />
           </a>
           <div class="md:hidden flex items-center">
             <button
