@@ -4,8 +4,8 @@ export default {
     fr: 'Notre équipe',
   },
   team_administration_title: {
-    en: 'Administration',
-    fr: 'Administration',
+    fr: 'Comité exécutif',
+    en: 'Executive committee',
   },
   team_administration_description: {
     en: 'Management team of the club',

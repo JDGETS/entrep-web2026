@@ -3,13 +3,8 @@ import { ref, onMounted } from 'vue';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { faEnvelope, faLocationDot } from '@fortawesome/free-solid-svg-icons';
 import logo from '@ogmatechnologies/assets/media/logo_flag2.png';
-import {
-  faGithub,
-  faLinkedin,
-  faInstagram,
-  faFacebook,
-} from '@fortawesome/free-brands-svg-icons';
-const email = 'ogmatechnologies@ens.etsmtl.ca';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
+const email = 'info@ogmatechnologies.ca';
 const hidden = ref(false);
 
 onMounted(() => {

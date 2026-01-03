@@ -20,129 +20,34 @@ export const teams: Team[] = [
     description: 'team_administration_description',
     members: [
       {
-        name: 'Erwan Derrien',
+        name: 'Leyla Hippeau-Dufour',
         program: 'engineering_software',
-        link: 'https://www.linkedin.com/in/erwan-derrien-396607210/',
-        title: 'title_captain',
+        title: 'title_operation',
       },
       {
-        name: 'Goulven Derrien',
+        name: 'Etienne Tardif',
         program: 'engineering_electrical',
-        link: 'https://www.linkedin.com/in/goulven-derrien-2b0a1a1b6/',
-        title: 'title_co_captain',
+        title: 'title_tech',
       },
       {
-        name: 'Jimmy Allard',
+        name: 'Mathieu Gaudreau',
         program: 'engineering_software',
-        link: 'https://www.linkedin.com/in/jimmy-allard-505613235/',
-        title: 'title_chef_technology',
+        title: 'title_marketing',
       },
       {
-        name: 'Elliott Gillespie',
+        name: 'Benjamin Truchon',
         program: 'engineering_gpa',
-        link: 'https://www.linkedin.com/in/elliott-gillespie-5b476b236/',
-        title: 'title_chef_production',
+        title: 'title_conception',
       },
-    ],
-  },
-  {
-    title: 'team_production_title',
-    description: 'team_production_description',
-    members: [
       {
-        name: 'Elliott Gillespie',
+        name: 'Léa Trudeau',
         program: 'engineering_gpa',
-        link: 'https://www.linkedin.com/in/elliott-gillespie-5b476b236/',
-        title: 'title_chef_production',
+        title: 'title_design',
       },
       {
-        name: 'Félix Lachance',
+        name: 'Charles-Olivier Faucher',
         program: 'engineering_gpa',
-        link: 'https://www.linkedin.com/in/félix-lachance-72871b32a',
-        img: FelixLachance,
-      },
-    ],
-  },
-  {
-    title: 'team_technology_title',
-    description: 'team_technology_description',
-    members: [
-      {
-        name: 'Jimmy Allard',
-        program: 'engineering_electrical',
-        link: 'https://www.linkedin.com/in/jimmy-allard-505613235/',
-        title: 'title_chef_technology',
-      },
-      {
-        name: 'Justin Fiset',
-        program: 'engineering_software',
-        link: 'https://www.linkedin.com/in/justinfiset/',
-      },
-      {
-        name: 'Rémi Cloutier',
-        program: 'engineering_software',
-        link: 'https://www.linkedin.com/in/remi-cloutier/',
-      },
-      {
-        name: 'Aimé Melançon',
-        program: 'engineering_software',
-        link: 'https://www.linkedin.com/in/aime1melancon/',
-      },
-      {
-        name: 'Denis Turk',
-        program: 'engineering_software',
-        link: 'https://www.linkedin.com/in/denisturk/',
-      },
-      {
-        name: 'Vincent Moreau-Benoit',
-        program: 'engineering_electrical',
-        link: ' https://www.linkedin.com/in/moreau-benoit-vincent',
-      },
-      {
-        name: 'Émile Gosselin',
-        program: 'engineering_mechanical',
-        link: 'https://www.linkedin.com',
-      },
-      {
-        name: 'Trevys Fiorito Thériault',
-        program: 'engineering_software',
-        link: 'https://ca.linkedin.com/in/trévys-fiorito-thériault-569a13230',
-      },
-      {
-        name: 'Marc-Olivier Jetté',
-        program: 'engineering_mechanical',
-        link: 'https://www.linkedin.com',
-      },
-      {
-        name: 'Xavier Drouin',
-        program: 'engineering_gpa',
-        link: 'https://www.linkedin.com',
-      },
-      {
-        name: 'Baptiste Rouanet',
-        program: 'master',
-        link: 'https://www.linkedin.com',
-      },
-      {
-        name: 'Bomba Romain',
-        program: 'gti_master',
-        link: 'https://www.linkedin.com',
-      },
-      {
-        name: 'Bastien Lett',
-        program: 'master_aero',
-        link: 'https://fr.linkedin.com/in/bastien-lett-b5a1232a9',
-      },
-    ],
-  },
-  {
-    title: 'team_communication_title',
-    description: 'team_communication_description',
-    members: [
-      {
-        name: 'Samuel Lipsteinas',
-        program: 'engineering_software',
-        link: 'https://www.linkedin.com',
+        title: 'title_support',
       },
     ],
   },

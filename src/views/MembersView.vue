@@ -21,9 +21,6 @@ import { teams } from '@ogmatechnologies/data/members';
             <h2 class="font-bold font-sans text-3xl md:text-4xl text-center">
               {{ $t(team.title) }}
             </h2>
-            <p class="text-center text-lg font-medium pt-3">
-              {{ $t(team.description) }}
-            </p>
           </div>
 
           <div class="flex flex-wrap justify-center items-center">

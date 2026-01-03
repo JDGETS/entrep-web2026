@@ -27,8 +27,6 @@ defineProps<{
       <div class="mt-3">
         <h4 class="text-lg font-medium mb-0">{{ name }}</h4>
         <small>{{ title }}</small>
-        <br />
-        <small class="text-muted">{{ program }}</small>
       </div>
     </div>
   </div>

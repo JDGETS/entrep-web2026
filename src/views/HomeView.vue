@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import logo from '@ogmatechnologies/assets/media/logo_flag.svg';
+import logo from '@ogmatechnologies/assets/media/logo_flag.png';
 import old from '@ogmatechnologies/assets/media/home/old.png';
 import milo from '@ogmatechnologies/assets/media/home/MiloV1.png';
 import objectives from '@ogmatechnologies/assets/media/home/objectives.png';
 import unis from '@ogmatechnologies/assets/media/home/unis.png';
 
-import PartnersComponent from '@ogmatechnologies/components/PartnersComponent.vue';
 import DescriptiveContentComponent from '@ogmatechnologies/components/DescriptiveContentComponent.vue';
 import i18n from '@ogmatechnologies/plugins/i18n';
 </script>

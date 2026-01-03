@@ -18,12 +18,6 @@ const navbarItems = [
     link: '/members',
     selected: false,
   },
-  {
-    name: 'page_join',
-    link: 'https://formulaires.etsmtl.ca/ClubEtudiantAdhesion?requete=geni ale&categorie=0',
-    target: '_blank',
-    selected: false,
-  },
 ];
 
 // Hide navbar until scroll
@@ -79,7 +73,7 @@ function changeLanguage(newLang: string) {
 <template>
   <nav
     id="navbar"
-    class="fixed w-full top-0 z-50 shadow bg-[rgba(173,31,49,255)] animate-fade animate-duration-150"
+    class="fixed w-full top-0 z-50 shadow bg-[rgba(17,24,39,255)] animate-fade animate-duration-150"
   >
     <div class="container px-4 py-3 mx-auto">
       <div class="md:flex justify-between items-center">
@@ -112,7 +106,7 @@ function changeLanguage(newLang: string) {
             :key="item.name"
             :href="item.link"
             class="block md:inline-block px-2 py-1 text-white hover:text-gray-500 md:px-4 md:py-2 md:text-lg"
-            :class="item.selected ? '!text-stone-950' : ''"
+            :class="item.selected ? '!text-stone-200' : ''"
             :target="item.target"
           >
             {{ $t(item.name) }}

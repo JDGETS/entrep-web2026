@@ -8,8 +8,8 @@ export default {
     fr: 'Nos réseaux sociaux',
   },
   location: {
-    en: '1219 William Street, Montréal, QC H3C 1K3',
-    fr: '1219 rue William, Montréal, QC H3C 1K3',
+    en: '1100 Notre-Dame street, Montréal, QC H3C 1K3',
+    fr: '1100 rue Notre-Dame, Montréal, QC H3C 1K3',
   },
   room_number: {
     en: 'Room D-2027',
