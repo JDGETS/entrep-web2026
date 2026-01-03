@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { onBeforeMount, ref } from 'vue';
-import logo from '@ogmatechnologies/assets/media/logo_flag2.svg';
+import logo from '@ogmatechnologies/assets/media/logo_flag2.png';
 import i18n from '@ogmatechnologies/plugins/i18n';
 import { faEarthAmerica } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';

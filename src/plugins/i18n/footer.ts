@@ -1,7 +1,7 @@
 export default {
   copyright: {
-    en: '© 2025 GéniAle. All rights reserved.',
-    fr: '© 2025 GéniAle. Tous droits réservés.',
+    en: '© 2026 OGMA Technologies. All rights reserved.',
+    fr: '© 2026 OGMA Technologies. Tous droits réservés.',
   },
   our_socials: {
     en: 'Our socials',
@@ -12,7 +12,7 @@ export default {
     fr: '1219 rue William, Montréal, QC H3C 1K3',
   },
   room_number: {
-    en: 'Room D-2017',
-    fr: 'Local D-2017',
+    en: 'Room D-2027',
+    fr: 'Local D-2027',
   },
 };

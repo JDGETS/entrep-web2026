@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import logo from '@ogmatechnologies/assets/media/logo_flag.svg';
-import team from '@ogmatechnologies/assets/media/members.jpg';
-import qualite from '@ogmatechnologies/assets/media/home/qualite.png';
-import houblon from '@ogmatechnologies/assets/media/home/houblon.jpg';
-import production from '@ogmatechnologies/assets/media/home/production.png';
+import old from '@ogmatechnologies/assets/media/home/old.png';
+import milo from '@ogmatechnologies/assets/media/home/MiloV1.png';
+import objectives from '@ogmatechnologies/assets/media/home/objectives.png';
+import unis from '@ogmatechnologies/assets/media/home/unis.png';
+
 import PartnersComponent from '@ogmatechnologies/components/PartnersComponent.vue';
 import DescriptiveContentComponent from '@ogmatechnologies/components/DescriptiveContentComponent.vue';
 import i18n from '@ogmatechnologies/plugins/i18n';
@@ -48,7 +49,7 @@ import i18n from '@ogmatechnologies/plugins/i18n';
         {{ $t('ingredients_content') }}
       </template>
       <template #image>
-        <img :src="houblon" alt="houblon" class="rounded-lg w-10/12" />
+        <img :src="old" alt="houblon" class="rounded-lg w-10/12" />
       </template>
     </DescriptiveContentComponent>
   </section>
@@ -72,7 +73,7 @@ import i18n from '@ogmatechnologies/plugins/i18n';
         {{ $t('beer_quality_content') }}
       </template>
       <template #image>
-        <img :src="qualite" alt="quality" class="rounded-lg w-10/12" />
+        <img :src="milo" alt="quality" class="rounded-lg w-10/12" />
       </template>
     </DescriptiveContentComponent>
   </section>
@@ -80,22 +81,17 @@ import i18n from '@ogmatechnologies/plugins/i18n';
     <DescriptiveContentComponent :image-right="false">
       <template #title>
         {{ $t('brewing_title') }}
-        <span class="text-primary-500">{{ $t('scratch_title') }}</span>
       </template>
       <template #content1>
         {{ $t('brewing_content') }}
       </template>
       <template #image>
-        <img :src="production" alt="production" class="rounded-lg w-10/12" />
+        <img :src="objectives" alt="production" class="rounded-lg w-10/12" />
       </template>
     </DescriptiveContentComponent>
   </section>
   <section>
-    <DescriptiveContentComponent
-      :button="$t('join_us')"
-      link="https://formulaires.etsmtl.ca/ClubEtudiantAdhesion?requete=geni ale&categorie=0"
-      :image-right="true"
-    >
+    <DescriptiveContentComponent :image-right="true">
       <template #title>
         {{ $t('join_our_team_title') }}
       </template>
@@ -103,9 +99,8 @@ import i18n from '@ogmatechnologies/plugins/i18n';
         {{ $t('join_our_team_content') }}
       </template>
       <template #image>
-        <img :src="team" alt="team" class="rounded-lg w-full" />
+        <img :src="unis" alt="team" class="rounded-lg w-full" />
       </template>
     </DescriptiveContentComponent>
   </section>
-  <PartnersComponent />
 </template>

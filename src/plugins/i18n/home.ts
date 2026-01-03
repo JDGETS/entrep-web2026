@@ -8,67 +8,44 @@ export default {
     fr: 'mission',
   },
   mission_content: {
-    fr: "Chez GéniALE notre mission est de développer des technologies dans le domaine brassicole afin d’automatiser et d’optimiser les procédés de brassage. En collaboration avec de grands joueurs de l’industrie, le club se concentre sur le développement de nouvelles technologies dans le but d'améliorer les procédés existants.",
-    en: 'At GéniALE, our mission is to develop technologies in the brewing industry to automate and optimize brewing processes. In collaboration with major players in the industry, the club focuses on developing new technologies to improve existing processes.',
+    fr: 'La mission d’OGMA Technologies est de concevoir et de déployer des solutions robotiques fiables et accessibles afin de soutenir les milieux de soins dans leurs opérations quotidiennes. Ces solutions visent à améliorer le quotidien des usagers tout en permettant au personnel de se concentrer davantage sur des tâches à plus forte valeur humaine. L’entreprise vise à devenir un acteur reconnu au Québec dans le domaine de la robotique appliquée aux soins et à l’assistance, en misant sur une innovation continue développée à partir des besoins réels du terrain et soutenue par des collaborations académiques et institutionnelle.',
   },
   get_in_touch_button: {
     en: 'Get in touch with us',
     fr: 'Contactez-nous pour en savoir plus',
   },
   ingredients: {
-    fr: 'Ingrédients',
-    en: 'ingredients',
+    fr: 'Valeurs',
+    en: 'values',
   },
   local: {
-    fr: 'locaux',
-    en: 'Local',
+    fr: 'fondamentales',
+    en: 'Fondamental',
   },
   ingredients_content: {
-    en: 'We use locally sourced ingredients and materials to brew our beer. This not only supports local businesses but also reduces our carbon footprint.',
-    fr: 'Nous utilisons des ingrédients et des matériaux locaux pour brasser notre bière. Cela soutient non seulement les entreprises locales, mais réduit également notre empreinte carbone.',
+    fr: 'Le développement d’OGMA Technologies repose sur le respect et la dignité des usagers, en particulier des personnes vulnérables, puisque les solutions développées s’adressent à des milieux sensibles où la fiabilité et l’éthique sont essentiels. L’entreprise adopte une approche d’innovation responsable orientée vers des usages concrets, tout en accordant une importance centrale à la sécurité, à la fiabilité et à la simplicité d’utilisation de ses solutions. La collaboration interdisciplinaire ainsi que l’amélioration continue ( Kaizen ) basée sur les retours terrain constituent également des éléments structurants qui guide les décisions technologiques et organisationnelles.',
   },
   beer_quality_title: {
-    fr: 'Une bière de',
-    en: 'beer',
+    fr: 'Offre de',
+    en: 'offer',
   },
   quality: {
-    fr: 'qualité',
-    en: 'Quality',
+    fr: 'service',
+    en: 'Service',
   },
   beer_quality_content: {
-    en: 'We take pride in brewing high-quality beer that is both delicious and refreshing. Our team of experienced brewers uses only the best ingredients and techniques to create unique flavors and aromas.',
-    fr: "Nous sommes fiers de brasser une bière de haute qualité, à la fois délicieuse et rafraîchissante. Notre équipe de brasseurs expérimentés n'utilise que les meilleurs ingrédients et techniques pour créer des saveurs et des arômes uniques.",
+    fr: 'OGMA Technologies propose son premier produit Milo, un robot d’assistance et de divertissement offert sous forme d’abonnement mensuel aux établissements. Milo est proposé au coût de 625 dollars par mois, par unité, selon un modèle B2B qui permet une adoption progressive par les organisations clientes tout en assurant une meilleure prévisibilité financière. L’entreprise dispose actuellement de capacités lui permettant d’assurer une partie de la production en interne, ce qui facilite le déploiement de nouvelles unités et permet d’effectuer des ajustements rapides au produit.',
   },
   brewing_title: {
-    en: 'Recipe designed from',
-    fr: 'Recette conçus de',
-  },
-  scratch_title: {
-    en: 'scratch',
-    fr: 'A à Z',
+    fr: 'Objectifs à court et moyen terme',
   },
   brewing_content: {
-    fr: 'Notre équipe de brasseurs passionnés travaille dur pour créer des recettes uniques et délicieuses. Nous brassons chaque lot avec soin, en utilisant des techniques traditionnelles et des équipements modernes.',
-    en: 'Our team of passionate brewers works hard to create unique and delicious recipes. We brew each batch with care, using traditional techniques and modern equipment.',
+    fr: 'À court terme, OGMA Technologies vise à stabiliser les versions actuelles du robot Milo et à déployer celui-ci dans des milieux pilotes afin d’en tester l’utilisation dans différents contextes. Ces déploiements permettront de recueillir des retours terrain pertinents, ce qui facilitera la poursuite de l’amélioration technologique du produit et la validation de son acceptabilité en conditions réelles. À moyen terme, l’entreprise souhaite augmenter progressivement le nombre d’unités Milo déployées et adapter le robot à différents profils d’usagers. Ces étapes visent également à renforcer la fiabilité du produit et à structurer une croissance durable, notamment par la consolidation de partenariats académiques et institutionnels et par la préparation d’une mise à l’échelle graduelle des activités.  ',
   },
   join_our_team_title: {
-    en: 'Join our team',
-    fr: 'Rejoins notre équipe',
+    fr: 'Ressources externes et partenaires',
   },
   join_our_team_content: {
-    en: 'We are always looking for talented individuals to join our team. If you are passionate about brewing and want to be part of a dynamic and innovative club, we would love to hear from you.',
-    fr: "Nous sommes toujours à la recherche de personnes talentueuses pour rejoindre notre équipe. Si vous êtes passionné par le brassage et souhaitez faire partie d'un club dynamique et innovant, nous aimerions avoir de vos nouvelles.",
-  },
-  join_us: {
-    en: 'Join us',
-    fr: 'Rejoins nous',
-  },
-  people_that_love_to_work_with_us: {
-    en: 'People that love to work with us',
-    fr: 'Ceux qui aiment travailler avec nous',
-  },
-  view_partner_plan: {
-    en: 'View our partner plan',
-    fr: 'Voir notre plan de partenariat',
+    fr: 'OGMA Technologies s’appuie sur des ressources externes issues principalement du milieu universitaire et de la recherche afin d’orienter le développement de ses solutions. L’entreprise bénéficie de contacts et d’échanges avec des chercheurs et experts affiliés à McGill University, L’École de technologie supérieure de Montréal et à l’Université de Montréal. Des échanges ont également lieux avec des étudiants en maîtrise dans le domaine de la gérontologie à l’université de Montréal pour palier notre manque de connaissance dans le milieu.',
   },
 };

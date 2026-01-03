@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { faEnvelope, faLocationDot } from '@fortawesome/free-solid-svg-icons';
-import logo from '@ogmatechnologies/assets/media/logo_flag2.svg';
+import logo from '@ogmatechnologies/assets/media/logo_flag2.png';
 import {
   faGithub,
   faLinkedin,
@@ -45,31 +45,10 @@ onMounted(() => {
           <nav class="flex flex-row gap-4">
             <a
               class="text-xl"
-              href="https://www.linkedin.com/company/ogmatechnologies-ets/"
-              aria-label="LinkedIn"
-            >
-              <FontAwesomeIcon :icon="faLinkedin" />
-            </a>
-            <a
-              class="text-xl"
-              href="https://www.instagram.com/ogmatechnologies_ets"
+              href="https://www.instagram.com/ogmatechnologies"
               aria-label="Instagram"
             >
               <FontAwesomeIcon :icon="faInstagram" />
-            </a>
-            <a
-              class="text-xl"
-              href="https://www.facebook.com/ogmatechnologiesets"
-              aria-label="FaceBook"
-            >
-              <FontAwesomeIcon :icon="faFacebook" />
-            </a>
-            <a
-              class="text-xl"
-              href="https://github.com/ogmatechnologies"
-              aria-label="GitHub"
-            >
-              <FontAwesomeIcon :icon="faGithub" />
             </a>
           </nav>
         </div>
